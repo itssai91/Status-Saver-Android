@@ -10,10 +10,15 @@
     <string name="share_app_message">Download All Videos using this app. Download Now</string>
 
 
-    <!--AdMob Id-->
+    <!--AdMob Test Id
     <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
     <string name="admob_banner_ad" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!--AdMob Id-->
+    <string name="admob_app_id" translatable="false">ca-app-pub-4157557049877666~2740614763</string>
+    <string name="admob_banner_ad" translatable="false">ca-app-pub-4157557049877666/1829846016</string>
+    <string name="admob_interstitial_ad" translatable="false">ca-app-pub-4157557049877666/9840182061</string>
 
 
 
