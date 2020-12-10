@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name" translatable="false">All in One Status Saver</string>
-    <string name="tag_line" translatable="false">Download All Status on One Click</string>
+    <string name="app_name" translatable="false">Free Status Downloader</string>
+    <string name="tag_line" translatable="false">Download All Status in One Click</string>
 
     <!-- TODO: Remove or change this placeholder text -->
 
@@ -19,8 +19,8 @@
 
 
 
-    <string name="about_content">Version: 1.0\nDeveloped by:-\ncodingdunia2019@gmail.com</string>
-    <string name="aboutInfo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="about_content">Version: 1.5\nDeveloped by:-\hostrangerofficial@gmail.com</string>
+    <string name="aboutInfo">HostRanger</string>
     <string name="insta_app_name">Instagram</string>
     <string name="insta_tag"><![CDATA[Download Instagram Images & Videos]]></string>
     <string name="whatsapp_app_name">WA &amp; WA Business</string>
@@ -46,20 +46,20 @@
 
     <!--About Page-->
     <string name="version_name">Version</string>
-    <string name="version_tag"> Version 1.0.0</string>
+    <string name="version_tag"> Version 1.5</string>
     <string name="company_name_title">Company</string>
-    <string name="company_tag_name">Coding Dunia</string>
+    <string name="company_tag_name">HostRanger</string>
     <string name="email_title">Email</string>
-    <string name="email_tag">codingdunia2019@gmail.com</string>
+    <string name="email_tag">hostrangerofficial@gmail.com</string>
     <string name="website_title">Website</string>
-    <string name="website_tag">http://codingdunia.com/</string>
+    <string name="website_tag">http://hostranger.in/</string>
     <string name="contact_title">Contact</string>
-    <string name="contact_tag">+91-9876543210</string>
+    <string name="contact_tag">+91-8456904716</string>
     <string name="privacy_title">Privacy Policy</string>
     <string name="privacy_tag">Click to Read Privacy Policy</string>
     <string name="about_title">About</string>
-    <string name="second_how_too">2. Share with All in One Status Saver</string>
-    <string name="fourth_how_too">2. Open All in One Status Saver</string>
+    <string name="second_how_too">2. Share with Free Status Downloader</string>
+    <string name="fourth_how_too">2. Open Free Status Saver</string>
     <string name="prv_policy">Privacy Policy</string>
     <string name="opn_fb">1. Open Facebook</string>
     <string name="copy_video_link_frm_fb">1. Copy Video Link from Facebook</string>

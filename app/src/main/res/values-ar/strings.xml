@@ -1,7 +1,7 @@
 <resources>
 
 
-    <string name="tag_line">Download All Status on One Click</string>
+    <string name="tag_line">Download All Status in One Click</string>
 
     <!-- TODO: Remove or change this placeholder text -->
 
@@ -36,8 +36,8 @@
     <string name="more_app_name">المزيد من التطبيقات</string>
     <string name="more_app_tag">عرض تطبيقاتنا الأخري</string>
 
-    <string name="about_content">Version: 1.0\nDeveloped by:-\ncodingdunia2019@gmail.com</string>
-    <string name="aboutInfo">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="about_content">Version: 1.5\nDeveloped by:-\hostrangerofficial@gmail.com</string>
+    <string name="aboutInfo">HostRanger</string>
 
 
 
@@ -69,21 +69,21 @@
 
 
     <string name="version_name">الإصدار</string>
-    <string name="version_tag">Version 1.0.0</string>
+    <string name="version_tag">Version 1.5</string>
     <string name="company_name_title">شركة</string>
-    <string name="company_tag_name">Coding Dunia</string>
+    <string name="company_tag_name">HostRanger</string>
     <string name="email_title">البريد الإلكتروني</string>
-    <string name="email_tag">codingdunia2019@gmail.com</string>
+    <string name="email_tag">hostrangerofficial@gmail.com</string>
     <string name="website_title">تابعنا</string>
-    <string name="website_tag">http://codingdunia.com/</string>
+    <string name="website_tag">http://hostranger.in/</string>
     <string name="contact_title">تواصل معنا</string>
-    <string name="contact_tag">+91-9876543210</string>
+    <string name="contact_tag">+91-8456904716</string>
 
     <string name="privacy_title">سياسة الخصوصية</string>
     <string name="privacy_tag">أنقر لقراءة سياسة الخصوصية  </string>
     <string name="about_title"> عن التطبيق</string>
-    <string name="second_how_too"> مشاركة عن طريق All in one status saver</string>
-    <string name="fourth_how_too">فتح All in one status saver</string>
+    <string name="second_how_too"> مشاركة عن طريق Free Status Downloader</string>
+    <string name="fourth_how_too">فتح Free Status Downloader</string>
 
     <string name="prv_policy">سياسة الخصوصية</string>
 
