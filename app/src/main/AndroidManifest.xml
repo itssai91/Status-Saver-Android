@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.cd.statussaver">
+    package="net.hostranger.statussaver">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -22,30 +22,30 @@
 
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".activity.LoginActivity"
+        <activity android:name="net.hostranger.statussaver.activity.LoginActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.AboutUsActivity"
+            android:name="net.hostranger.statussaver.activity.AboutUsActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.FacebookActivity"
+            android:name="net.hostranger.statussaver.activity.FacebookActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.TikTokActivity"
+            android:name="net.hostranger.statussaver.activity.TikTokActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.WhatsappActivity"
+            android:name="net.hostranger.statussaver.activity.WhatsappActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.InstagramActivity"
+            android:name="net.hostranger.statussaver.activity.InstagramActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.FullViewActivity"
+            android:name="net.hostranger.statussaver.activity.FullViewActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".activity.LikeeActivity"
+        <activity android:name="net.hostranger.statussaver.activity.LikeeActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity
-            android:name=".activity.SplashScreen"
+            android:name="net.hostranger.statussaver.activity.SplashScreen"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -54,10 +54,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.GalleryActivity"
+            android:name="net.hostranger.statussaver.activity.GalleryActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.MainActivity"
+            android:name="net.hostranger.statussaver.activity.MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.SEND" />
@@ -82,10 +82,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.WebviewAcitivity"
+            android:name="net.hostranger.statussaver.activity.WebviewAcitivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".activity.TwitterActivity"
+            android:name="net.hostranger.statussaver.activity.TwitterActivity"
             android:theme="@style/AppTheme.NoActionBar" />
 
         <meta-data
@@ -93,7 +93,7 @@
             android:value="@string/admob_app_id" />
 
         <service
-            android:name=".MyFirebaseMessagingService"
+            android:name="net.hostranger.statussaver.MyFirebaseMessagingService"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
